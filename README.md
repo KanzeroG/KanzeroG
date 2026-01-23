@@ -1,9 +1,4 @@
 # Hi there 👋, Welcome!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello,%20my%20name%20is%20Faza&fontSize=50&animation=fadeIn" alt="header" />
-</p>
-
 Hello! 👨‍💻 My name is **Faza**. I’m a developer interested in **Web Development**, **Artificial Intelligence**, and **GameDev**. 🚀
 
 I am currently focusing on mastering various coding languages, especially those related to AI models and immersive gaming experiences. I love being part of the developer community and building projects that push the boundaries of technology! 🛠️
@@ -34,5 +29,5 @@ I am currently focusing on mastering various coding languages, especially those 
 ### Connect with me:
 <p align="left">
 <a href="mailto:fazaarrantisi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/KanzeroG"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
