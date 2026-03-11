@@ -1,10 +1,10 @@
 # Hi there 👋, Welcome!
-Hello! 👨‍💻 My name is **Faza**. I’m a developer interested in **Web Development**, **Artificial Intelligence**, and **GameDev**. 🚀
+Hello! 👨‍💻 My name is **Faza**. I’m a programmer.
 
 I am currently focusing on mastering various coding languages, especially those related to AI models and immersive gaming experiences. I love being part of the developer community and building projects that push the boundaries of technology! 🛠️
 
 ### Skills:
-**Leader** | **Artificial Intelligence** | **Game Development** | **Project Management**
+**Leader** | **Artificial Intelligence** | **Programmer** | **Project Management**
 
 ### Tools:
 <p align="left">
@@ -20,11 +20,11 @@ I am currently focusing on mastering various coding languages, especially those 
 
 ---
 
-* 🔭 **I’m currently working on:** Building robust Roblox experiences and AI-integrated web apps.
-* 🌱 **I’m currently learning:** Advanced AI model integration and Next.js optimization.
+* 🔭 **I’m currently working on:** Build an AI Application.
+* 🌱 **I’m currently learning:** Advanced AI model integration.
 * 📫 **How to reach me:** [fazaarrantisi@gmail.com](mailto:fazaarrantisi@gmail.com)
 * 😃 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I'm a fitness enthusiast! You'll often find me at the gym, out for a run, or lost in a great game.
+* ⚡ **Fun fact:** I'm a fitness enthusiast! You'll often find me at the gym.
 
 ### Connect with me:
 <p align="left">
