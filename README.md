@@ -1,5 +1,5 @@
-# Hi there 👋, Welcome!
-Hello! 👨‍💻 My name is **Faza**. I’m a programmer.
+# Hi there, Welcome!
+Hello! My name is **Fazza**. I’m a programmer & AI Developer.
 
 I am currently focusing on mastering various coding languages, especially those related to AI models and immersive gaming experiences. I love being part of the developer community and building projects that push the boundaries of technology! 🛠️
 
@@ -17,14 +17,6 @@ I am currently focusing on mastering various coding languages, especially those 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-* 🔭 **I’m currently working on:** Build an AI Application.
-* 🌱 **I’m currently learning:** Advanced AI model integration.
-* 📫 **How to reach me:** [fazaarrantisi@gmail.com](mailto:fazaarrantisi@gmail.com)
-* 😃 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I'm a fitness enthusiast! You'll often find me at the gym.
 
 ### Connect with me:
 <p align="left">
